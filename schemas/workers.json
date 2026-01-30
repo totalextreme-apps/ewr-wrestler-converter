@@ -1,0 +1,13 @@
+{
+  "delimiter": "|",
+  "fields": [
+    "Name",
+    "Gender",
+    "Age",
+    "Nationality",
+    "Brawling",
+    "Technical",
+    "Aerial",
+    "Charisma"
+  ]
+}
